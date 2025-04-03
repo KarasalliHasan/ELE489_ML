@@ -29,4 +29,4 @@ This repository demonstrates the use of the K-Nearest Neighbors (K-NN) algorithm
 - seaborn
 - scikit-learn
 - matplotlib
-- -Dataset from https://archive.ics.uci.edu/dataset/109/wine
+- Dataset from https://archive.ics.uci.edu/dataset/109/wine
